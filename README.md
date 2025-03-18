@@ -1,9 +1,16 @@
 ## 👋 Hi there, I'm Rodrigo Mendes!  
 
-🎓 Computer Science student at **Faculdade de Ciências da Universidade do Porto (FCUP)**  
-🎓 I completed my 1st year of studies (2022/2023) at **Universidade do Minho**  
-📍 Based in **Porto, Portugal**  
-💻 Passionate about technology, programming, and solving complex problems.  
+🎓 Computer Science student at **Faculdade de Ciências da Universidade do Porto (FCUP)**
+
+🎓 I completed my 1st year of studies (2022/2023) at **Universidade do Minho**
+
+📂 My University Projects & Solutions at FCUP ➡️ [FCUP](https://github.com/RodrigoMendes04/FCUP)
+
+📍 Based in **Porto, Portugal**
+
+💻 Passionate about technology, programming, and solving complex problems.
+
+---
 
 ## 📊 GitHub Stats
 <div align="center">
