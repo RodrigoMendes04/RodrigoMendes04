@@ -14,9 +14,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoMendes04&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoMendes04&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMendes04&layout=compact&theme=radical" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RodrigoMendes04&show_icons=true&theme=dark" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMendes04&layout=compact&theme=dark" />
 </div>
 
 
