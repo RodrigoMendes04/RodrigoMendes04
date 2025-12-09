@@ -6,6 +6,8 @@
 
 📂 My University Projects & Solutions at FCUP ➡️ [FCUP](https://github.com/RodrigoMendes04/FCUP)
 
+📂 My Personal Projects ➡️ [Personal Projects](https://github.com/RodrigoMendes04/Personal-Projects)
+
 📍 Based in **Porto, Portugal**
 
 💻 Passionate about technology, programming, and solving complex problems.
