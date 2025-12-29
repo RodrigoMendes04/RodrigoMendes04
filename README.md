@@ -16,6 +16,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=margaridavc&style=flat-square&color=blue" alt=""/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RodrigoMendes04&show_icons=true&theme=dark" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMendes04&layout=compact&theme=dark" />
 </div>
