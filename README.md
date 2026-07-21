@@ -29,8 +29,12 @@
 ## 📄 Publications
 
 **Data (Re)conciliation: Audit and Harmonization Pipelines for Municipal Geospatial Data**  
-_Springer LNCS, ICCSA 2026 Workshops_  
-[DOI](https://link.springer.com/chapter/10.1007/978-3-032-30521-3_35) | [Source Code](link)
+_Springer LNCS, ICCSA 2026 Workshops | July 2026_
+
+Research on multi-source geospatial data reconciliation, achieving 91% alignment across 1,500+ entities.
+
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--032--30521--3__35-blue?style=for-the-badge)](https://link.springer.com/chapter/10.1007/978-3-032-30521-3_35) [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](link-aqui)
+
 
 ---
 
