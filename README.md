@@ -14,15 +14,20 @@
 
 ## 🚀 Experience
 
-**Scale AI** - AI Training Data Specialist _(Jul 2026 - Present)_
-- Evaluating AI-generated code quality for LLM training
+**🤖 Scale AI** - AI Training Data Specialist _(Jul 2026 - Present)_
+- Evaluating AI-generated code quality across Python, JavaScript, and SQL for LLM training
+- Contributing to production model improvements through expert code review
 
-**Câmara Municipal da Maia** - Data Engineering Intern _(Oct 2025 - Feb 2026)_
-- Developed 6 automated Python pipelines for geospatial data reconciliation
-- Engineered Big Data solutions with AWS S3, DuckDB
+**🗺️ Câmara Municipal da Maia** - Data Engineering Intern _(Oct 2025 - Feb 2026)_
+- Developed 6 automated Python pipelines reconciling geospatial data across OpenStreetMap, Overture Maps, and GTFS
+- **Achieved 91% data alignment** across 1,500+ municipal entities
+- Engineered Big Data solutions querying AWS S3 Parquet files via DuckDB
 
-**Freelance Developer** _(Jan 2025 - Present)_
-- Backend APIs, web scraping, Discord bots
+**💻 Freelance Developer** _(Jan 2025 - Present)_
+- Backend APIs with FastAPI/Flask, authentication, and database integration
+- Web scraping automation with Playwright and BeautifulSoup
+- Custom Discord bots with API integration and database storage
+
 
 ---
 
@@ -33,7 +38,7 @@ _Springer LNCS, ICCSA 2026 Workshops | July 2026_
 
 Research on multi-source geospatial data reconciliation, achieving 91% alignment across 1,500+ entities.
 
-[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--032--30521--3__35-blue?style=for-the-badge)](https://link.springer.com/chapter/10.1007/978-3-032-30521-3_35) [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](link-aqui)
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--032--30521--3__35-blue?style=for-the-badge)](https://link.springer.com/chapter/10.1007/978-3-032-30521-3_35) [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/RodrigoMendes04/PI2025-DataHarmonization)
 
 
 ---
